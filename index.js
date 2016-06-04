@@ -58,7 +58,7 @@ console.log("I'm wating for you @" + PORT);
 
 // index. Let's say something fun
 app.get('/', function(req, res) {
-  res.send('"Only those who will risk going too far can possibly find out how far one can go." - T.S. Eliot');
+  res.send('"Thanks for using the app! If wanna go further, check our facebook page out facebook.com/ApiBot-1191719787527331" - ApiJam team');
 });
 
 // Webhook verify setup using FB_VERIFY_TOKEN
